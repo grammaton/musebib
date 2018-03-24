@@ -1,2 +1,3 @@
-# musebib
-Electronic and Electroacoustic Music Bibliography in .bib BibTeX format
+# MUSEBIB
+
+## Electronic and Electroacoustic Music Bibliography in .bib BibTeX format
